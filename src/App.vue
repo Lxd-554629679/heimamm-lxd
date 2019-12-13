@@ -1,5 +1,5 @@
 <template>
-  <div>黑马面面</div>
+  <router-view></router-view>
 </template>
 
 <script>
